@@ -69,3 +69,7 @@ C:\Users\addemaree\Desktop\ElevenFifty-net\ContosoUniversity\ContosoUniversity\b
 C:\Users\addemaree\Desktop\ElevenFifty-net\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 C:\Users\addemaree\Desktop\ElevenFifty-net\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 C:\Users\addemaree\Desktop\ElevenFifty-net\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\addemaree\Desktop\ElevenFifty-net\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\Users\addemaree\Desktop\ElevenFifty-net\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\addemaree\Desktop\ElevenFifty-net\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\Users\addemaree\Desktop\ElevenFifty-net\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml

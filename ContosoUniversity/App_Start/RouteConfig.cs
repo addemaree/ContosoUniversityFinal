@@ -18,6 +18,17 @@ namespace ContosoUniversity
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
+
+
+            //Examples of how the routing works:
+            //http//localhost:1230/Instructor/Index/1?courseID=2021
+            //In this example:
+            //Instructor = controller
+            //Index = Action
+            //1 = ID
+            //?courseID=2021 = query string value
+            //The link above will also work if you pass in "ID" as a query string value, which would look like = ?id=1&CourseID=2021
+            
         }
     }
 }

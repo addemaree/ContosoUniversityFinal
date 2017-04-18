@@ -75,3 +75,4 @@ C:\Users\addemaree\Desktop\ElevenFifty-net\ContosoUniversity\ContosoUniversity\b
 C:\Users\addemaree\Desktop\ElevenFifty-net\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
 C:\Users\addemaree\Desktop\ElevenFifty-net\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
 C:\Users\addemaree\Desktop\ElevenFifty-net\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.GenerateResource.Cache
+C:\Users\addemaree\Desktop\ElevenFifty-net\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
